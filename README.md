@@ -3,7 +3,9 @@
 This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Machine Learning From Disaster.
 The goal of this repository is to provide an example of a competitive analysis for those interested in getting into the field of data analytics or using python for Kaggle's Data Science competitions.
 
-You can acces my kernal on kaggle here [Titanic Competition Kernal](https://www.kaggle.com/vjgupta/titanic-simple-model-beginners)
+You can access my kernal on kaggle here [Titanic Competition Kernal](https://www.kaggle.com/vjgupta/titanic-simple-model-beginners)
+
+**Your goal is to predict survival on Titanic and get familiar with ML basics**
 
 ## Installation
 - Download this repository in a zip file by clicking on this link or execute this from the terminal:
